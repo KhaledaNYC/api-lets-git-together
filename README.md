@@ -1,24 +1,10 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Users should be able to:
 
-Things you may want to cover:
+Create a project page as an admin (github)
+Add collaborators to project (github)
+Chat with other members on the project page
+View commit/pull request feed
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
